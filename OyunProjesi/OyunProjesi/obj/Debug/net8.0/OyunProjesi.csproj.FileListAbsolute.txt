@@ -1,0 +1,14 @@
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\bin\Debug\net8.0\OyunProjesi.exe
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\bin\Debug\net8.0\OyunProjesi.deps.json
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\bin\Debug\net8.0\OyunProjesi.runtimeconfig.json
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\bin\Debug\net8.0\OyunProjesi.dll
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\bin\Debug\net8.0\OyunProjesi.pdb
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.AssemblyInfoInputs.cache
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.AssemblyInfo.cs
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.csproj.CoreCompileInputs.cache
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.dll
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\refint\OyunProjesi.dll
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.pdb
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\OyunProjesi.genruntimeconfig.cache
+C:\Users\fatih\RiderProjects\OyunProjesi\OyunProjesi\obj\Debug\net8.0\ref\OyunProjesi.dll
